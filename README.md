@@ -1,7 +1,7 @@
 # EXPERIMENT--01-ALP-FOR-8086
-Name :
-Roll no 
-Date of experiment :
+## Name : AVINASH T
+## Roll no : 212223230026
+## Date of experiment :
 
 
 
